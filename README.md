@@ -2,11 +2,6 @@
 
 This repository contains my CS781 capstone work on legal language modelling and downstream legal NLP tasks. I trained four base models on legal text and adapted them for entity recognition, rhetorical roles, judgment prediction, statute identification, summarization and prior case retrieval.
 
-**Name:** Trishal Reddy Bokka  
-**Roll number:** 261110070  
-**Institute:** IIT Kanpur  
-**Email:** trishalr26@iitk.ac.in
-
 ## Project phases
 
 | Phase | Task | Main implementation |
